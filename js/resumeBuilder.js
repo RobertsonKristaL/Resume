@@ -63,14 +63,13 @@ var projects = {
 			"datesWorked": "December 2016 - January 2017",
 			"description": "a.	This is an example of a program that I put together. This was the communication we were going to use for the ARs. I created this program by collaborating with other groups within AT&T and getting feedback from Authorized Retailers to improve a very manual process internally and externally, as well as, increase sales in our power and audio category. Unfortunately, as we reached the finalizing stage, the team that would be working with me monthly on managing this program was impacted by the surplus. We have since started reviewing other options for improving this process." +
 			"Product Marketing Manager.",
-			"images": ["images/ReturnsProgram.png"],
+			"images": ["https://github.com/RobertsonKristaL/Resume/blob/master/images/ReturnsProgram.PNG"],
 		},
 		{
 			"title": "UE Speaker Spotlight",
 			"datesWorked": "March 28 - May 5",
 			"description": "This one pager was used for email communications to my ARs and review on weekly individual calls. They are able to distribute these to their store locations to hang in the back rooms. Sensitive Information has been blocked out.",
-			"images": ["images/SpeakerSpotlight.png"],
-			"url": "http://helpful-kit-572.appspot.com/"
+			"images": ["https://github.com/RobertsonKristaL/Resume/blob/master/images/SpeakerSpotlight.PNG"],
 		}
 	]
 };
